@@ -1,0 +1,2 @@
+[17-Jan-2018 11:39:46 UTC] PHP Parse error:  syntax error, unexpected ''database'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/rtmaestro/public_html/edjio_dashboard/dashboard1/config/database.php on line 59
+[17-Jan-2018 11:39:48 UTC] PHP Parse error:  syntax error, unexpected ''database'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/rtmaestro/public_html/edjio_dashboard/dashboard1/config/database.php on line 59
